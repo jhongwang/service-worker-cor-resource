@@ -1,0 +1,1 @@
+为service worker 缓存跨域资源demo准备的远程资源
